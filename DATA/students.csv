@@ -1,0 +1,6 @@
+# Student Data File
+# Format: ID,RegNo,FullName,Email,Status
+S001,CS1001,John Doe,john.doe@university.edu,true
+S002,CS1002,Jane Smith,jane.smith@university.edu,true
+S003,MATH2001,"Johnson, Bob",bob.johnson@university.edu,true
+S004,PHY3001,"Alice Brown, Jr.",alice.brown@university.edu,false
